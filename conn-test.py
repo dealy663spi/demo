@@ -20,6 +20,7 @@ jiraOptions = {'server': spirentURL}
 I am thee and thou art me and all of one is the other.
 The coward dies a thousand deaths, the brave but one?
 Every day is a new day. It is better to be lucky. But I would rather be exact. Then when luck comes you are ready.
+Today is only one day in all the days that will ever be.
 
 # Get a JIRA client instance, pass,
 # Authentication parameters
