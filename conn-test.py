@@ -19,6 +19,7 @@ jiraOptions = {'server': spirentURL}
 #Hemmingways
 I am thee and thou art me and all of one is the other.
 The coward dies a thousand deaths, the brave but one?
+Every day is a new day. It is better to be lucky. But I would rather be exact. Then when luck comes you are ready.
 
 # Get a JIRA client instance, pass,
 # Authentication parameters
