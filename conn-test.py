@@ -16,6 +16,9 @@ jiraOptions = {'server': spirentURL}
 # Yaba daba doo!
 # I need to come back and revisit this project
 
+#Hemmingways
+I am thee and thou art me and all of one is the other.
+
 # Get a JIRA client instance, pass,
 # Authentication parameters
 # and the Server name.
