@@ -10,6 +10,9 @@ dmeEmail = "derek.ealy@spirent.com"
 
 jiraOptions = {'server': spirentURL}
 
+# Adding some comments to the file
+# I need to come back and revisit this project
+
 # Get a JIRA client instance, pass,
 # Authentication parameters
 # and the Server name.
